@@ -1,0 +1,1 @@
+print("FUCK YEAH IT's SORTA WORKING>>>>")
